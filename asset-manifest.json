@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/expense-tracker-app/static/css/main.abe147ea.chunk.css",
+    "main.js": "/expense-tracker-app/static/js/main.215748ba.chunk.js",
+    "main.js.map": "/expense-tracker-app/static/js/main.215748ba.chunk.js.map",
+    "runtime-main.js": "/expense-tracker-app/static/js/runtime-main.66441852.js",
+    "runtime-main.js.map": "/expense-tracker-app/static/js/runtime-main.66441852.js.map",
+    "static/js/2.35c5b5b1.chunk.js": "/expense-tracker-app/static/js/2.35c5b5b1.chunk.js",
+    "static/js/2.35c5b5b1.chunk.js.map": "/expense-tracker-app/static/js/2.35c5b5b1.chunk.js.map",
+    "index.html": "/expense-tracker-app/index.html",
+    "static/css/main.abe147ea.chunk.css.map": "/expense-tracker-app/static/css/main.abe147ea.chunk.css.map",
+    "static/js/2.35c5b5b1.chunk.js.LICENSE.txt": "/expense-tracker-app/static/js/2.35c5b5b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66441852.js",
+    "static/js/2.35c5b5b1.chunk.js",
+    "static/css/main.abe147ea.chunk.css",
+    "static/js/main.215748ba.chunk.js"
+  ]
+}
